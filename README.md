@@ -1,0 +1,1 @@
+This is a temporary landing page I built for my design studio, made with pure HTML5, CSS3, and a little JavaScript. Google Analytics 4 tracking was added later to monitor traffic, mainly from my studio’s Instagram profile and LinkedIn.
